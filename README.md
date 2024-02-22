@@ -3,16 +3,16 @@ My name is Olga. I am an aspiring linguist. I am passionate about building machi
 
 ----
 
-**Languages**: Python & R
+**💻 Languages**: Python & R
 
-**Skills**: NLTK / Spacy / Pymorphy2 / Gensim / Sklearn / Tensorflow / Polyglot / Pydub / Regex / Pandas / Numpy / Matplotlib / Seaborn / Tidyverse / Caret
+**📦 Skills**: NLTK / Spacy / Pymorphy2 / Gensim / Sklearn / Tensorflow / Polyglot / Pydub / Regex / Pandas / Numpy / Matplotlib / Seaborn / Tidyverse / Caret
 
 ----
 
 
 🔭 **I’m currently working on**:
 
-- 📝 Multilingual Spell Text Corrector
+- 📝 Multilingual Spell Checker
 - 📝 Advanced Text Correction & Style Optimization for Russian
 
 ----
