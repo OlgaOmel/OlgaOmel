@@ -5,17 +5,20 @@ My name is Olga. I am an aspiring linguist. I am passionate about building machi
 
 **Languages**: Python & R
 
-**Skills**: NLTK / Spacy / Pymorphy2 / Gensim / Sklearn / Tensorflow / Polyglot / Pydub / Regex / Pandas / Numpy / Matplotlib / Seaborn
+**Skills**: NLTK / Spacy / Pymorphy2 / Gensim / Sklearn / Tensorflow / Polyglot / Pydub / Regex / Pandas / Numpy / Matplotlib / Seaborn / Tidyverse / Caret
 
 ----
 
 
 🔭 **I’m currently working on**:
 
-- Multilingual spell text corrector
+- 📝 Multilingual Spell Text Corrector
+- 📝 Advanced Text Correction & Style Optimization for Russian
 
 ----
 👯 I’m looking to collaborate on open source tools for data science and machine learning. 
+
+
 
 <!--
 **OlgaOmel/OlgaOmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
