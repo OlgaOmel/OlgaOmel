@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Olga. I am an aspiring linguist. I am passionate about building machine learning models and data driven solutions to solve emerging language problems. Right now I am interested in Machine translation, Spellchecking and Voicebots/Chatbots.
+My name is Olga. I am passionate about building machine learning models and data driven solutions to solve emerging language problems. Right now I am interested in Machine translation, Spellchecking and Voicebots/Chatbots.
 
 ----
 
